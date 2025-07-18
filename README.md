@@ -1,16 +1,22 @@
-## Hi there 👋
+# 👋 Olá, eu sou o Juan Moreno!
 
-<!--
-**JuanDaCunhaMoreno/JuandaCunhaMoreno** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🎓 Estudante de Análise e Desenvolvimento de Sistemas (IBMR)  
+💻 Apaixonado por tecnologia, com foco em desenvolvimento em **Python**  
+🔍 Curioso por aprender novas linguagens e explorar diferentes áreas da programação  
 
-Here are some ideas to get you started:
+Aqui você encontrará meus projetos pessoais, acadêmicos e experimentos com automações, APIs e utilitários diversos.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🚀 Projetos em destaque
+
+- 🔎 [CEP](https://github.com/JuanDaCunhaMoreno/CEP) – Consulta de CEP via API pública (ViaCEP)
+- ➗ [Calculadora de Equações](https://github.com/JuanDaCunhaMoreno/CalculadoraEquacoesMatematicas) – Resolução simbólica de equações matemáticas com SymPy
+- 🔊 [Conversor de TXT para MP3](https://github.com/JuanDaCunhaMoreno/ConversorTXTparaMP3) – Transforma texto em áudio
+- 💰 [Gastox](https://github.com/JuanDaCunhaMoreno/Gastox) – Aplicação para controle simples de despesas
+
+## 📫 Entre em contato
+
+- [💼 LinkedIn](https://www.linkedin.com/in/juan-da-cunha-moreno-29752a222/)
+
+---
+
+> Sempre aprendendo, sempre evoluindo 🚀
