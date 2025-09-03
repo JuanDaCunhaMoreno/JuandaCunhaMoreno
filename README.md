@@ -9,9 +9,9 @@ Aqui você encontrará meus projetos pessoais, acadêmicos e experimentos com au
 ## 🚀 Projetos em destaque
 
 - 🔎 [Análise NetFlix](https://github.com/JuanDaCunhaMoreno/analise-netflix) – Análise exploratória dataset NetFlix
-- ➗ [Calculadora de Equações](https://github.com/JuanDaCunhaMoreno/CalculadoraEquacoesMatematicas) – Resolução simbólica de equações matemáticas com SymPy
+- ➗ [Análise Superstore](https://github.com/JuanDaCunhaMoreno/superstore-dashboard) – Análise exploratória com Dashboard
 - 🔊 [Conversor de TXT para MP3](https://github.com/JuanDaCunhaMoreno/ConversorTXTparaMP3) – Transforma texto em áudio
-- 💰 [Gastox](https://github.com/JuanDaCunhaMoreno/Gastox) – Aplicação para controle simples de despesas
+- 💰 [Análise de Vendas](https://github.com/JuanDaCunhaMoreno/Analise_Vendas_Loja) – Análise de vendas com Jupyter Notebook
 
 ## 📫 Entre em contato
 
