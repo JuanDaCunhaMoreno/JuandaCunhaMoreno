@@ -8,7 +8,7 @@ Aqui você encontrará meus projetos pessoais, acadêmicos e experimentos com au
 
 ## 🚀 Projetos em destaque
 
-- 🔎 [CEP](https://github.com/JuanDaCunhaMoreno/CEP) – Consulta de CEP via API pública (ViaCEP)
+- 🔎 [Análise NetFlix](https://github.com/JuanDaCunhaMoreno/analise-netflix) – Análise exploratória dataset NetFlix
 - ➗ [Calculadora de Equações](https://github.com/JuanDaCunhaMoreno/CalculadoraEquacoesMatematicas) – Resolução simbólica de equações matemáticas com SymPy
 - 🔊 [Conversor de TXT para MP3](https://github.com/JuanDaCunhaMoreno/ConversorTXTparaMP3) – Transforma texto em áudio
 - 💰 [Gastox](https://github.com/JuanDaCunhaMoreno/Gastox) – Aplicação para controle simples de despesas
