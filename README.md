@@ -1,7 +1,7 @@
 # 👋 Olá, eu sou o Juan Moreno!
 
 🎓 Estudante de Análise e Desenvolvimento de Sistemas (IBMR)  
-💻 Apaixonado por tecnologia, com foco em **Análise de Dados** e **🐍 Python**
+💻 Apaixonado por tecnologia, com foco em **Análise de Dados** e **🐍 Python**\n
 🔍 Curioso por aprender novas linguagens e explorar diferentes áreas da programação  
 
 Aqui você encontrará meus projetos pessoais, acadêmicos e experimentos com automações, APIs e utilitários diversos.
