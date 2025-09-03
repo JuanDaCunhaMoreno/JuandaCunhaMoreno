@@ -10,7 +10,8 @@ Aqui você encontrará meus projetos pessoais, acadêmicos e experimentos com au
 
 - 📊 [Análise NetFlix](https://github.com/JuanDaCunhaMoreno/analise-netflix) – Análise exploratória de dados do dataset Netflix.
 - 📈 [Análise Superstore](https://github.com/JuanDaCunhaMoreno/superstore-dashboard) – Análise exploratória com Dashboards.
-- 🛒 [Análise de Vendas](https://github.com/JuanDaCunhaMoreno/Analise_Vendas_Loja) – Análise de vendas com Jupyter Notebook. 
+- 🛒 [Análise de Vendas](https://github.com/JuanDaCunhaMoreno/Analise_Vendas_Loja) – Análise de vendas com Jupyter Notebook.
+- ⚽ [Análise FIFA 22](https://github.com/JuanDaCunhaMoreno/Analise-Fifa-22) – Análise de Dados de Jogadores do FIFA 22.  
 
 ## 📫 Entre em contato
 
