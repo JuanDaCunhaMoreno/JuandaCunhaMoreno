@@ -1,0 +1,20 @@
+# Ignorar arquivos que não são do projeto
+*.yml linguist-generated=true
+*.yaml linguist-generated=true
+*.lock linguist-generated=true
+*.sh linguist-generated=true
+*.vim linguist-generated=true
+Gemfile* linguist-generated=true
+Rakefile linguist-generated=true
+
+# Mostrar notebooks como Jupyter Notebook
+*.ipynb linguist-language=Jupyter Notebook
+
+# Dados não contam como código
+*.csv linguist-generated=true
+*.xlsx linguist-generated=true
+*.json linguist-generated=true
+
+# Desconsiderar arquivos de build ou config
+node_modules/** linguist-vendored=true
+.github/** linguist-vendored=true
