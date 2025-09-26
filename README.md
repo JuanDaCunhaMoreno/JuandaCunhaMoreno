@@ -1,22 +1,47 @@
-# 👋 Olá, eu sou o Juan Moreno!
+<h1 align="center">Olá! 👋 Eu sou o Juan Moreno</h1>
 
-- 🎓 Estudante de Análise e Desenvolvimento de Sistemas (IBMR)  
-- 💻 Apaixonado por tecnologia, com foco em **Análise de Dados** e **🐍 Python**
-- 🔍 Curioso por aprender novas linguagens e explorar diferentes áreas da programação  
-
-Aqui você encontrará meus projetos pessoais, acadêmicos e experimentos com automações, APIs e utilitários diversos.
-
-## 🚀 Projetos em destaque
-
-- 📊 [Análise NetFlix](https://github.com/JuanDaCunhaMoreno/analise-netflix) – Análise exploratória de dados do dataset Netflix.
-- 📈 [Análise Superstore](https://github.com/JuanDaCunhaMoreno/superstore-dashboard) – Análise exploratória com Dashboards.
-- 🛒 [Análise de Vendas](https://github.com/JuanDaCunhaMoreno/Analise_Vendas_Loja) – Análise de vendas com Jupyter Notebook.
-- ⚽ [Análise FIFA 22](https://github.com/JuanDaCunhaMoreno/Analise-Fifa-22) – Análise de Dados de Jogadores do FIFA 22.  
-
-## 📫 Entre em contato
-
-- [💼 LinkedIn](https://www.linkedin.com/in/juan-da-cunha-moreno-29752a222/)
+<p align="center">
+Sou apaixonado por <strong>Dados, Python, SQL e Power BI</strong>.<br>
+Atualmente construindo projetos de <strong>Análise de Dados</strong> para praticar e compartilhar no meu portfólio.
+</p>
 
 ---
 
-> Sempre aprendendo, sempre evoluindo 🚀
+### 🧑‍💻 Sobre mim
+- 🎯 Foco atual: **Análise de Dados e Visualização**
+- 📊 Projetos com: `Python`, `Pandas`, `SQL`, `Power BI`
+- 💪 Sempre buscando melhorar meu portfólio com projetos práticos
+- 🚀 Compartilho insights e dashboards no [LinkedIn]([https://www.linkedin.com/](https://www.linkedin.com/in/juan-da-cunha-moreno-29752a222))
+
+---
+
+### 🚀 Tecnologias que uso:
+<div align="center">
+
+![Python](https://img.shields.io/badge/Python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
+![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white)
+![SQL](https://img.shields.io/badge/SQL-336791?style=for-the-badge&logo=postgresql&logoColor=white)
+![Power BI](https://img.shields.io/badge/Power%20BI-F2C811?style=for-the-badge&logo=Power%20BI&logoColor=black)
+
+</div>
+
+---
+
+### 📈 Estatísticas do GitHub
+<div align="center">
+  
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=juan-moreno&show_icons=true&theme=radical)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=juan-moreno&layout=compact&theme=radical)
+
+</div>
+
+---
+
+### 📬 Onde me encontrar
+- 💼 [LinkedIn](https://www.linkedin.com/in/juan-da-cunha-moreno-29752a222)
+- 📧 **juandacunhamoreno@gmail.com**
+- 🗂️ [Meus Projetos no GitHub](https://github.com/JuanDaCunhaMoreno)
+
+---
+
+⭐ *Gostou dos meus projetos? Não esqueça de deixar uma estrela!*
