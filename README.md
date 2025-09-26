@@ -27,8 +27,6 @@ Atualmente construindo projetos de <strong>Análise de Dados</strong> para prati
 
 ---
 
----
-
 ### 📬 Onde me encontrar
 - 💼 [LinkedIn](https://www.linkedin.com/in/juan-da-cunha-moreno-29752a222)
 - 📧 **juandacunhamoreno@gmail.com**
