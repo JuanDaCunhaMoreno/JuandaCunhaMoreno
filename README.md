@@ -27,9 +27,6 @@ Atualmente construindo projetos de <strong>Análise de Dados</strong> para prati
 
 ---
 
-
-</div>
-
 ---
 
 ### 📬 Onde me encontrar
