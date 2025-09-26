@@ -27,10 +27,6 @@ Atualmente construindo projetos de <strong>Análise de Dados</strong> para prati
 
 ---
 
-### 📈 Estatísticas do GitHub
-<div align="center">
-
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=juan-moreno&layout=compact&theme=radical)
 
 </div>
 
