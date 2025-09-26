@@ -6,6 +6,8 @@
 *.vim linguist-generated=true
 Gemfile* linguist-generated=true
 Rakefile linguist-generated=true
+*.rb linguist-generated=true
+_config.yml linguist-generated=true
 
 # Mostrar notebooks como Jupyter Notebook
 *.ipynb linguist-language=Jupyter Notebook
